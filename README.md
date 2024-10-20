@@ -1,15 +1,16 @@
-![alt text](https://github.com/tejasnasa/tejasnasa/blob/main/banner.png?raw=true)
-
 <a href="https://github.com/tejasnasa">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tejasnasa&theme=radical" />
 </a>
 <a href="https://github.com/tejasnasa">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejasnasa&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
+<br><br>
 
-<br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=tejasnasa&theme=radical&title=-Issues,-Reviews&margin-w=10)](https://github.com/tejasnasa)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tejasnasa&theme=radical&title=-Issues,-Reviews&margin-w=6)](https://github.com/tejasnasa)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tejasnasa&theme=radical)](https://github.com/tejasnasa)
+
+
 
 ## My Repos
 
