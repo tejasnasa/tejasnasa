@@ -1,16 +1,20 @@
-## I am Tejas 👋
+![alt text](https://github.com/tejasnasa/tejasnasa/blob/main/banner.png?raw=true)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/tejasnasa">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tejasnasa&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/tejasnasa">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejasnasa&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=tejasnasa&theme=radical&title=-Issues,-Reviews&margin-w=6)](https://github.com/tejasnasa)
+
 ## My Repos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tejasnasa&repo=AI-ChatBot&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tejasnasa&repo=KinoFlow&theme=radical)](https://github.com/tejasnasa/KinoFlow)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tejasnasa&repo=YelpCamp&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tejasnasa&repo=Login-Page&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tejasnasa&repo=AI-ChatBot&theme=radical)](https://github.com/tejasnasa/AI-ChatBot) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tejasnasa&repo=KinoFlow&theme=radical)](https://github.com/tejasnasa/KinoFlow)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tejasnasa&repo=YelpCamp&theme=radical)](https://github.com/tejasnasa/YelpCamp) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tejasnasa&repo=Login-Page&theme=radical)](https://github.com/tejasnasa/Login-Page)
 
 ## 
 
