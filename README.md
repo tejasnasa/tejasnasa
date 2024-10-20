@@ -6,7 +6,7 @@
 </a>
 <br><br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tejasnasa&theme=radical&title=-Issues,-Reviews&margin-w=10)](https://github.com/tejasnasa)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tejasnasa&theme=radical&title=-Issues,-Reviews&margin-w=20)](https://github.com/tejasnasa)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tejasnasa&theme=radical)](https://github.com/tejasnasa)
 
