@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-[![Tejas's GitHub stats](https://github-readme-stats.vercel.app/api?username=tejasnasa)](https://github.com/anuraghazra/github-readme-stats)
+[![Tejas's GitHub stats](https://github-readme-stats.vercel.app/api?username=tejasnasa&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **tejasnasa/tejasnasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
