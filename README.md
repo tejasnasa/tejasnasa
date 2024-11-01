@@ -1,3 +1,5 @@
+<img src="banner.jpg">
+
 <a href="https://github.com/tejasnasa">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tejasnasa&theme=radical" />
 </a>
