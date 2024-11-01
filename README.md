@@ -38,13 +38,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejasnasa&theme=algolia">
 </p>
 
-<img height=300 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tejasnasa&theme=algolia" /><img height=300 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tejasnasa&theme=algolia" /><img height=300 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tejasnasa&theme=algolia" /><img height=300 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tejasnasa&theme=algolia" /><img height=300 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tejasnasa&theme=algolia&utcOffset=8" />
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tejasnasa&theme=algolia) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tejasnasa&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tejasnasa&theme=algolia) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tejasnasa&theme=algolia) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tejasnasa&theme=algolia&utcOffset=8) 
+<img width=100% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tejasnasa&theme=algolia" /><img width=50% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tejasnasa&theme=algolia" /><img width=50% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tejasnasa&theme=algolia" /><img width=50% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tejasnasa&theme=algolia" /><img width=50% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tejasnasa&theme=algolia&utcOffset=8" />
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=tejasnasa&theme=radical&title=-Issues)](https://github.com/tejasnasa)
 
