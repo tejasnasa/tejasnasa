@@ -1,16 +1,20 @@
 <img src="banner.jpg">
 
-# Hi, I'm Tejas Nasa! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="40" height="40" />
+<h1 align="center"> Hi, I'm Tejas Nasa! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="40" height="40" /></h1>
 
-<p><em> 
-  - 👨‍💻 I’m a MERN Stack Web Developer<br>
-  - 💻 Check out my portfolio <a href="https://tejasnasa.vercel.app/">here</a>.<br>
-  - 📚 I’m currently learning everything about Backend Development.<br>
-  - 💪🏼 Future Goals: Turn more ideas into reality.<br>
-  - 📫 Reach me through <a href="mailto:tejasnasa2005@gmail.com">tejasnasa2005@gmail.com</a>.<br>
+<p><em>
+  
+  - 👨‍💻 I’m a MERN Stack Web Developer
+  
+  - 💻 Check out my portfolio <a href="https://tejasnasa.vercel.app/">here</a>.
+  
+  - 📚 I’m currently learning everything about Backend Development
+
+  - 💪🏼 Future Goals: Turn more ideas into reality
+    
+  - 📫 Reach me at <a href="mailto:tejasnasa2005@gmail.com">tejasnasa2005@gmail.com</a>
+  
 </em></p>
-
-![](https://komarev.com/ghpvc/?username=tejasnasa&color=2A3563)
 
 
 
@@ -31,6 +35,8 @@
 <a href="https://codeforces.com/profile/tejasnasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tejasnasa" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tejasnasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tejasnasa" height="30" width="40" /></a>
 </p>
+<br>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=tejasnasa&color=2A3563&base=100&style=for-the-badge"></p>
 <br><br>
 
 <!--<a href="https://github.com/tejasnasa"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tejasnasa&theme=algolia" /></a> <a href="https://github.com/tejasnasa"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejasnasa&layout=compact&langs_count=8&card_width=320&theme=algolia" /></a>
