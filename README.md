@@ -32,17 +32,16 @@
 <a href="https://www.leetcode.com/tejasnasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tejasnasa" height="30" width="40" /></a>
 </p>
 
-<a href="https://github.com/tejasnasa">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tejasnasa&theme=radical" />
-</a>
-<a href="https://github.com/tejasnasa">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejasnasa&layout=compact&langs_count=8&card_width=320&theme=radical" />
-</a>
-<br><br>
+<a href="https://github.com/tejasnasa"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tejasnasa&theme=algolia" /></a> <a href="https://github.com/tejasnasa"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejasnasa&layout=compact&langs_count=8&card_width=320&theme=algolia" /></a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tejasnasa&theme=radical&title=-Issues)](https://github.com/tejasnasa)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejasnasa&theme=algolia">
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tejasnasa&theme=radical)](https://github.com/tejasnasa)
+
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=tejasnasa&theme=radical&title=-Issues)](https://github.com/tejasnasa)
+
+
 
 
 
@@ -52,7 +51,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tejasnasa&repo=YelpCamp&theme=radical)](https://github.com/tejasnasa/YelpCamp) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tejasnasa&repo=Login-Page&theme=radical)](https://github.com/tejasnasa/Login-Page)
 
 ## 
-
+-->
 
 
 <!--
