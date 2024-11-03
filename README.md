@@ -39,13 +39,13 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=tejasnasa&color=2A3563&base=100&style=for-the-badge"></p>
 <br><br>
 
-<!--<a href="https://github.com/tejasnasa"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tejasnasa&theme=algolia" /></a> <a href="https://github.com/tejasnasa"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejasnasa&layout=compact&langs_count=8&card_width=320&theme=algolia" /></a>
+<!--<a href="https://github.com/tejasnasa"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tejasnasa&theme=github_dark" /></a> <a href="https://github.com/tejasnasa"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejasnasa&layout=compact&langs_count=8&card_width=320&theme=github_dark" /></a>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejasnasa&theme=algolia">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejasnasa&theme=github_dark">
 </p>
 -->
-<img width=100% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tejasnasa&theme=algolia" /><img width=50% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tejasnasa&theme=algolia" /><img width=50% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tejasnasa&theme=algolia" /><img width=50% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tejasnasa&theme=algolia" /><img width=50% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tejasnasa&theme=algolia&utcOffset=5.5" />
+<img width=100% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tejasnasa&theme=github_dark" /><img width=50% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tejasnasa&theme=github_dark" /><img width=50% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tejasnasa&theme=github_dark" /><img width=50% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tejasnasa&theme=github_dark" /><img width=50% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tejasnasa&theme=github_dark&utcOffset=5.3" />
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=tejasnasa&theme=radical&title=-Issues)](https://github.com/tejasnasa)
 
