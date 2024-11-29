@@ -20,12 +20,15 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,react,redux,ts,js,vercel,vscode,vite,postman,firebase,mongodb,tailwind,styledcomponents,github,git,css,bootstrap,materialui,html,cpp,c&perline=12" />
+  <a href="https://github.com/tejasnasa/repositories">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,react,nextjs,redux,ts,js,vercel,vscode,webstorm,vite,postman,firebase,supabase,mongodb,tailwind,styledcomponents,github,git,css,bootstrap,materialui,html,cpp,cm&perline=13" />
+  </a>
+</p><h3 align="center">Learning Plan:</h3>
+<p align="center">
+  <a href="https://github.com/tejasnasa/repositories">
+    <img src="https://skillicons.dev/icons?i=graphql,docker,mysql,sqlite,nestjs,sequelize,redis,nginx,kafka,aws,py,django,flask,fastapi,pycharm,java,spring,idea&perline=9" />
   </a>
 </p>
-
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/tejasnasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tejasnasa" height="30" width="40" /></a>
