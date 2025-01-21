@@ -39,7 +39,7 @@
 <a href="https://www.leetcode.com/tejasnasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tejasnasa" height="30" width="40" /></a>
 </p>
 <br>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=tejasnasa&color=2A3563&base=100&style=for-the-badge"></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=tejasnasa&color=2A3563&style=for-the-badge"></p>
 <br><br>
 
 <!--<a href="https://github.com/tejasnasa"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tejasnasa&theme=github_dark" /></a> <a href="https://github.com/tejasnasa"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejasnasa&layout=compact&langs_count=8&card_width=320&theme=github_dark" /></a>
