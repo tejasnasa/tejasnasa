@@ -4,11 +4,11 @@
 
 <p><em>
   
-  - 👨‍💻 I’m a MERN Stack Web Developer
+  - 👨‍💻 I’m a Full Stack Web Developer
   
   - 💻 Check out my portfolio <a href="https://tejasnasa.vercel.app/">here</a>.
   
-  - 📚 I’m currently learning everything about Backend Development
+  - 📚 I’m currently learning everything about Backend and Frontend Development
 
   - 💪🏼 Future Goals: Turn more ideas into reality
     
