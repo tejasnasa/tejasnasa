@@ -1,12 +1,12 @@
 <img src="banner.jpg">
 
-<h1 align="center"> Hi, I'm Tejas Nasa! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="40" height="40" /></h1>
+<h1 align="center"> Hi, I'm Tejas Nasa! </h1>
 
 <p><em>
   
   - 👨‍💻 I’m a Full Stack Web Developer
   
-  - 💻 Check out my portfolio <a href="https://tejasnasa.vercel.app/">here</a>.
+  - 💻 Check out my portfolio <a href="https://tejasnasa.me/">here</a>.
   
   - 📚 I’m currently learning everything about Backend and Frontend Development
 
@@ -18,19 +18,14 @@
 
 
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://github.com/tejasnasa/repositories">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,react,nextjs,redux,ts,js,vercel,vscode,webstorm,vite,postman,firebase,supabase,mongodb,tailwind,styledcomponents,github,git,css,bootstrap,materialui,html,cpp,cm&perline=13" />
-  </a>
-</p>
+
 <!-- <h3 align="center">Learning Plan:</h3>
 <p align="center">
   <a href="https://github.com/tejasnasa/repositories">
     <img src="https://skillicons.dev/icons?i=graphql,docker,mysql,sqlite,nestjs,sequelize,redis,nginx,kafka,aws,py,django,flask,fastapi,pycharm,java,spring,idea&perline=9" />
   </a>
 </p> -->
-<h3 align="center">Connect with me:</h3>
+<!-- <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/tejasnasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tejasnasa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tejasnasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejasnasa" height="30" width="40" /></a>
@@ -41,7 +36,7 @@
 </p>
 <br>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=tejasnasa&color=2A3563&style=for-the-badge"></p>
-<br><br>
+<br><br> -->
 
 <!--<a href="https://github.com/tejasnasa"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tejasnasa&theme=github_dark" /></a> <a href="https://github.com/tejasnasa"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejasnasa&layout=compact&langs_count=8&card_width=320&theme=github_dark" /></a>
 
